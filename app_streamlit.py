@@ -3,7 +3,6 @@ Slider Data Comparison Tool - Web Version (Streamlit)
 Western Digital - Quality Control
 Version: 3.1 - Enhanced CSV Column Detection
 """
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
